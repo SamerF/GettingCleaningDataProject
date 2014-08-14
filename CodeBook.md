@@ -15,6 +15,7 @@ SUBJECT is the subject id from 1 to 30
 
 The value of the cell contains the average of each variable for each activity and each subject
 The variables are ordered where each row represents a variable in this order:
+
 tBodyAcc-mean()-X	
 tBodyAcc-mean()-Y	
 tBodyAcc-mean()-Z	
