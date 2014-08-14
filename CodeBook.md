@@ -5,7 +5,7 @@ This cook book contains information about 2 data sets:
 * TIDY.csv  (scroll down)
 
 
-TIDY2.csv
+TIDY2.txt
 ===========
 Columns are created as a combination of 2 fields in this format: ACTIVITY.SUBJECT
 where 
@@ -103,7 +103,7 @@ angle(Y,gravityMean)
 angle(Z,gravityMean)
 
 see features_info.txt for more details about what each variable mean.
-(extra: I created TIDY2_WithRowNames.csv that contains the list of row names for clarity)
+(extra: I created TIDY2_withrows.csv that contains the list of row names for clarity)
 
 TIDY.csv
 =========
